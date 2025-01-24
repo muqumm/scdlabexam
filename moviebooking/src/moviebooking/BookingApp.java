@@ -1,7 +1,7 @@
 package moviebooking;
 class InsufficientSeatsException extends Exception {
     public InsufficientSeatsException(String message) {
-        super(message);
+        super(messagee);
     }
 }
 final class BookingState {
